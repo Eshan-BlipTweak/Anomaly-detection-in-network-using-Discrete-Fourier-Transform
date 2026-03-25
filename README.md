@@ -1,7 +1,7 @@
 ### Project Title: Network Data Pattern Detection
 
 #### Description
-This project, created by Dev Dahiya during an internship at a cyber-security company, aims to detect patterns in network data, primarily focusing on data received by a Wi-Fi router from local systems. The primary goal is to differentiate between real human activity and automated data pulls by the company or other systems. By analyzing these patterns, the project helps in identifying non-human inputs and miscellaneous sources of data traffic.
+This project, created by Eshan Tiwari and Dev Dahiya during an internship at a cyber-security company, aims to detect patterns in network data, primarily focusing on data received by a Wi-Fi router from local systems. The primary goal is to differentiate between real human activity and automated data pulls by the company or other systems. By analyzing these patterns, the project helps in identifying non-human inputs and miscellaneous sources of data traffic.
 
 #### Features
 - **Data Input:** Accepts Parquet files containing network data.
